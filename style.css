@@ -1,4 +1,4 @@
-/* Ümumi tərz */
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #4a8fcc;
@@ -9,7 +9,7 @@ body {
     margin: 0;
 }
 
-/* Weather container */
+
 .weather-container {
     background-color: #ffffff;
     padding: 30px 40px;
@@ -19,7 +19,7 @@ body {
     width: 400px;
 }
 
-/* Axtarış sahəsi */
+
 .search {
     margin-bottom: 20px;
     display: flex;
@@ -48,14 +48,14 @@ body {
     background-color: #187bcd;
 }
 
-/* Şəhər və ölkə */
+
 .location {
     font-size: 1.2rem;
     font-weight: bold;
     margin-bottom: 15px;
 }
 
-/* Temperatur */
+
 .temperature {
     font-size: 3rem;
     font-weight: bold;
@@ -63,7 +63,7 @@ body {
     color: #ff4500;
 }
 
-/* Hava təsviri */
+
 .condition {
     font-size: 1.2rem;
     color: #555555;
