@@ -1,7 +1,4 @@
-//! api link     https://www.weatherapi.com/
-//todo #homework AŞağıda her bir prosesi funksiya halına gətirmək (Ex updateCity)
 
-// https://api.weatherapi.com/v1/current.json?key=7491f5f1cad248eb93d200324250309&q=London&aqi=no&lang=tr
 
 const baseUrl = "https://api.weatherapi.com/v1/current.json";
 const apiKey = "7491f5f1cad248eb93d200324250309";
